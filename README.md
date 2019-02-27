@@ -2,7 +2,7 @@
 A simple Vanilla JavaScript application that allows the user to create a list of people they hate while storing the data on local storage.
 
 ### Features
-* Main functionalities completely coded in Vanilla Javascript includes:
+* Main functionalities completely coded in Vanilla Javascript include:
   * Adding people you hate by filling up details via a form.
   * Deleting people you wish to remove from your list.
   * Form validation with success and alert messages.
